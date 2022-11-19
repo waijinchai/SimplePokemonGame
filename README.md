@@ -1,4 +1,4 @@
-# Assignment 2 - A2_Group_8
+# Simple Pokémon Game
 
 ## Table of Contents
 * [General Info](#general-info)
